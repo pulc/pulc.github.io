@@ -1,18 +1,20 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Pavel's den
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Even a bad developer needs a website
 
 # Your name to show in the footer
-author: Some Person
+author: Pavel Ulč
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Blog: "home"
   About Me: "aboutme"
+  Resume: "resume"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
