@@ -1,11 +1,10 @@
 ---
-layout: 
+layout: page
 title: Resumé
 subtitle: 
 ---
 
 
-<!-- saved from url=(0030)https://webjeda.com/online-cv/ -->
 <html lang="en"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>My Resume</title>
 
@@ -13,10 +12,14 @@ subtitle:
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="A beautiful Jekyll theme for creating resume">
+
 <link rel="shortcut icon" href="https://webjeda.com/online-cv/favicon.ico">
-<link rel="stylesheet" href="resume/My%20Resume_Files/bootstrap.min.css">
-<link rel="stylesheet" href="resume/My%20Resume_Files/all.css">
-<link id="theme-style" rel="stylesheet" href="resume/My%20Resume_Files/main.css">
+
+<link rel="stylesheet" href="./My Resume_files/bootstrap.min.css">
+
+<link rel="stylesheet" href="./My Resume_files/all.css">
+
+<link id="theme-style" rel="stylesheet" href="./My Resume_files/main.css">
 
 <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -27,7 +30,8 @@ subtitle:
 <div class="wrapper">
 <div class="sidebar-wrapper">
 <div class="profile-container">
-<img class="avatar" src="resume/My%20Resume_Files/profile.png" alt="profile picture">
+
+<img class="avatar" src="/assets/img/profile_pic.png" alt="profile picture">
 <h1 class="name">Alan Doe</h1>
 <h3 class="tagline">Full Stack Developer</h3>
 </div>
@@ -104,7 +108,7 @@ About Theme
 <ul class="list-unstyled interests-list">
  <li><a target="_blank" href="https://www.youtube.com/watch?v=Jnmj1dXDbNk">How to use?</a></li>
 <li><span></span>
-<script async="" src="resume/My%20Resume_Files/analytics.js.download"></script><script async="" defer="" src="resume/My%20Resume_Files/buttons.js.download"></script>
+<script async="" src="./My Resume_files/analytics.js.download"></script><script async="" defer="" src="./My Resume_files/buttons.js.download"></script>
 </li></ul>
 </div>
 </div>
@@ -334,10 +338,10 @@ Skills &amp; Proficiency
 </div>
 </footer>
 
-<script type="text/javascript" src="resume/My%20Resume_Files/jquery-1.11.3.min.js.download"></script>
-<script type="text/javascript" src="resume/My%20Resume_Files/bootstrap.min.js.download"></script>
+<script type="text/javascript" src="./My Resume_files/jquery-1.11.3.min.js.download"></script>
+<script type="text/javascript" src="./My Resume_files/bootstrap.min.js.download"></script>
 
-<script type="text/javascript" src="resume/My%20Resume_Files/main.js.download"></script>
+<script type="text/javascript" src="./My Resume_files/main.js.download"></script>
 
 <script>
   (function (i, s, o, g, r, a, m) {
