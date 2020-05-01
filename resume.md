@@ -29,7 +29,7 @@ Experience
 10/2019 - 04/2020 
 *   **Full Stack Developer**, Pierburg GmbH
 
-    I developed an application in ASP.NET MVC for optimization of internal processes.*
+    *I developed an application in ASP.NET MVC for optimization of internal processes.*
 
 
 04/2018 - 08/2018 
