@@ -11,5 +11,9 @@ I hate Instagram mostly due to my experience with active users. It is also an at
  I also dislike Twitter due to its limits regarding tweet size.
  
 Having a website does not make me any better in terms of attentio n-seeking and online validation. However, I feel I am not contributing to Facebook's data collecting and its mistreating and I have all the power to express myself in articles instead of pictures and videos.
+
  
 As a strong introvert, I can express myself much better with writing instead of speaking. (not sure if it's an introvert personality treat or just my treat). Anyways, here it is, my blog. I expect myself to stop writing very soon but we will see if I can keep it up.
+
+
+![a picture](/assets/img/thisisyou.jpg)
