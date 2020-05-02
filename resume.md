@@ -1,17 +1,8 @@
 ---
-layout: base
+layout: resume
 ---
 
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Pavel's Resume</title>
-  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
   <div class="container">
     <section>
       <div>
@@ -197,25 +188,5 @@ Usability (Analysis, Research Methods, UCD), Software Engineering (Documentation
 
       </div>
     </section>
-
   </div>
 
-
-    <footer>
-        <div style="text-align: center; font-size: 12px">
-        <p>    <a href="https://icons8.com/icon/LGD5b4uegqeq/drawing">Drawing icon by Icons8</a>. Adapted from Andre Madarang's CV <a href="https://github.com/drehimself/resume-template">template</a>. Skillbars adapted from  <a href="https://codepen.io/milacarrera/pen/pEPoZz">Codepen</a> by Camila Cerrera.
-</p>
-            </div>
-    
-    </footer>
-    
-    
-    
-    <script>
-function goBack() {
-  window.history.back();
-}
-</script>
-</body>
-
-</html>
