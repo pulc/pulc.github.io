@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Information overhead
+bigimg: /assets/img/me3.jpeg	
 ---
 
 
@@ -28,7 +29,7 @@ I avoid responsibilities a lot and tend to overthink stuff. No, not the happiest
 
 If you don't like reading texts, here you have an original emoji-based list. I guess, this is how the youth communicates nowadays anyway.
 
-*   🎓 B.Sc. Computer Science  [HTW Berlin](https://imi-bachelor.htw-berlin.de/en/)
+*   🎓 B.Sc. Computer Science  [HTW Berlin](https://imi-bachelor.htw-berlin.de/en/) (hopefully very soon)
 *   🦥 super sloppy
 *   🇨🇿 from Pilsen, Czechia
 *   🇩🇪 based in Berlin, Germany
@@ -55,11 +56,12 @@ There will be also an article about my favorites movies and series. So far, you 
 
 I like drawing and painting. There will be a section with my work on the website. In the meantime, you can check my [Deviantart](https://www.deviantart.com/pavelulc/gallery). Currently I dedicated myself to urban sketching.
 
-We all love taking pictures. I am also a wannabe photographer. Let me share my [public album](https://goo.gl/photos/ts7oYheLEbxC66Za9). Currently I dedicated myself to urban sketching. from my solo travel to Iran. 
+We all love taking pictures. I am also a wannabe photographer. Let me share my [public album](https://goo.gl/photos/ts7oYheLEbxC66Za9) from my solo travel to Iran. 
 
 ##  Literature
 
 Unfortunately, I haven't read much recently. You can check my book [database](https://www.databazeknih.cz/uzivatele/pavel-ulc-10432). (sorry, in Czech only, again)
+Used to read phantasy as a teenager a lot, proceeded to non-fiction lately. 
 
 ##  Games
 
@@ -74,7 +76,7 @@ I also need to mention board games. Bang! is awesome. I also want to get better 
 
 ##  Food
 
-It's trendy now to talk about food everywhere and share your creations. I don't care about food and eat pretty much everything.
+It's trendy nowadays to talk about food everywhere and share your creations. I don't care about food and eat pretty much everything.
 
 ##  Miscellaneous
 

@@ -3,11 +3,10 @@ layout: page
 title: Sketching
 subtitle: My sketches
 bigimg:
-  - "/assets/img/sketches/bergmannkiez.jpg" : "Bergmannkiez, Berlin"
+  - "/assets/img/sketches/bergmannkiez.jpg" : "Chamissoplatz in Bergmannkiez, Berlin"
   - "/assets/img/sketches/bergmannstrasse.jpg" : "Bergmannstraße, Berlin"
-  - "/assets/img/sketches/bundestag.jpg" : "Bundestag, Berlin"
-  - "/assets/img/sketches/dom.jpg" : "Berliner Dom, Berlin"
-  - "/assets/img/sketches/stendal2.jpg" : "Ünglinger Tor, Stendal, Berlin"  
+  - "/assets/img/sketches/bundestag.jpg" : "Marie-Elisabeth-Lüders-Haus, Berlin"
+  - "/assets/img/sketches/stendal2.jpg" : "Ünglinger Tor, Stendal"  
 ---
 
 

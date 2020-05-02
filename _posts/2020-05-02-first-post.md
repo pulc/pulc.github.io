@@ -2,7 +2,7 @@
 layout: post	
 title: Starting a website!
 subtitle: It is not exciting	
-tags: [test]	
+tags: [test]
 ---	
 
 
@@ -18,7 +18,7 @@ I didn't want to post anything more on Facebook. I deactivated the account and I
 I hate Instagram mostly due to my experience with active users. It is also an attention-seeking website. I hate all the fakeness it includes and how people desperately try to present themselves in the best light possible. I also have enough experience with people destroying nice moments with making videos/taking pictures in order to create Instagram-ready content. I guess I would like to write an article about it separately as it bothers me more than it should.
  I also dislike Twitter due to its limits regarding tweet size.
  
-Having a website does not make me any better in terms of attentio n-seeking and online validation. However, I feel I am not contributing to Facebook's data collecting and its mistreating and I have all the power to express myself in articles instead of pictures and videos.
+Having a website does not make me any better in terms of attention-seeking and online validation. However, I feel I am not contributing to Facebook's data collecting and its mistreating and I have all the power to express myself in articles instead of pictures and videos.
 
  
 As a strong introvert, I can express myself much better with writing instead of speaking. (not sure if it's an introvert personality treat or just my treat). Anyways, here it is, my blog. I expect myself to stop writing very soon but we will see if I can keep it up.
