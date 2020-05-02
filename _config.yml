@@ -19,7 +19,6 @@ navbar-links:
     - Sketching: "sketch"
     - Photography: "photography"
 
-
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -53,7 +52,6 @@ social-network-links:
   youtube: channel/UCf71I1K1ZJ8RbK-7EUd0kJA
   spotify: 1156782974
 #  telephone: +14159998888
-  steam: pulc
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname

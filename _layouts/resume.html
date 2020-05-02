@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+<html lang="{{ page.language | default: site.language | default: 'en' }}">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  <head>
+        <meta charset="UTF-8">
+        <title>Pavel's Resume</title>
+        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+        <link rel="stylesheet" href="resume/style.css">
+        <head>
+  <meta charset="UTF-8">
+  <title>Pavel's Resume</title>
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+  <link rel="stylesheet" href="resume/style.css">
+  
+</head>
+      </head>
+
+  <body>
+
+    {% include gtm_body.html %}
+  
+    {% include nav.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+  
+    {% include footer-scripts.html %}
+  
+  </body>
+</html>
