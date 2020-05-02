@@ -10,7 +10,7 @@ html {
 body {
   font-family: 'Source Sans Pro', sans-serif;
   line-height: 1.5;
-  background: #f7cf3e;
+  background: #dec464;
   color: #323232;
 }
 
@@ -76,7 +76,7 @@ img.avatar {
 .my-title {
   font-size: 24px;
   font-weight: 300;
-  color: #bc004d;
+
 }
 
 .links {
@@ -233,7 +233,7 @@ img.avatar {
 }
 .bar::before{
   content:  attr(data-skill);
-  background-color: #bc004d;
+  background-color: #dec464;
   display: inline-block;
   padding: 5px 0 5px 10px;
   border-radius: inherit;
@@ -244,10 +244,10 @@ img.avatar {
 }
 
 .bar.front::before{
-  background-color: #bc004d;
+  background-color: #dec464;
 }
 .bar.back::before{
-  background-color: #bc004d;
+  background-color: #dec464;
 }
 
 .bar.learning::before{
@@ -286,7 +286,7 @@ img.avatar {
   text-decoration: none;
   display: inline-block;
   padding: 8px 16px;
-  background-color: #bc004d;
+  background-color: #404040;
   color: white;
       margin: auto;
 

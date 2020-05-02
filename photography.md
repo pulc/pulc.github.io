@@ -5,4 +5,4 @@ title: Photography
 ---
 
 
-My favorite photos will be showcased here.dddd
+My favorite photos will be showcased here.

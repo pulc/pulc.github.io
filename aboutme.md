@@ -31,7 +31,7 @@ If you don't like reading texts, here you have an original emoji-based list. I g
 *   🎓 B.Sc. Computer Science  [HTW Berlin](https://imi-bachelor.htw-berlin.de/en/)
 *   🦥 super sloppy
 *   🇨🇿 from Pilsen, Czechia
-*   🇩🇪 living in Berlin, Germany
+*   🇩🇪 based in Berlin, Germany
 *   🍺 beer loving
 *   🌈 partnered
 *   💻 spends too much time on a computer

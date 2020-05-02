@@ -15,6 +15,7 @@ navbar-links:
   Blog: "index"
   About Me: "aboutme"
   Resume: "resume"
+  Projects: "projects"
   Art:
     - Sketching: "sketch"
     - Photography: "photography"
@@ -23,7 +24,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar.png"
+# avatar: "/assets/img/avatar.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour here.
 round-avatar: true
@@ -41,16 +42,16 @@ round-avatar: true
 social-network-links:
   email: "ulc.pavel@gmail.com"
   github: pulc
-  twitter: PavelUlc
+#  twitter: PavelUlc
   rss: true
   reddit: kurvaknedlik
-  linkedin: pavel-ulc
+#  linkedin: pavel-ulc
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
   instagram: pulcpulc
-  youtube: channel/UCf71I1K1ZJ8RbK-7EUd0kJA
-  spotify: 1156782974
+#  youtube: channel/UCf71I1K1ZJ8RbK-7EUd0kJA
+#  spotify: 1156782974
 #  telephone: +14159998888
 #  twitch: yourname
 #  yelp: yourname
@@ -84,7 +85,7 @@ navbar-text-col: "#404040"
 navbar-children-col: "#f7cf3e"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
-hover-col: "#9e7f21"
+hover-col: "#171717"
 footer-col: "#f7cf3e"
 footer-text-col: "#171717"
 footer-link-col: "#404040"

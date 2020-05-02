@@ -139,10 +139,13 @@ Usability (Analysis, Research Methods, UCD), Software Engineering (Documentation
             
         
         </div> <!-- end skills-container -->
-
+        <p>
         I acquired a knowledge of C# from my internship and from my development in ASP.NET. I also tried some game development in Unity. Java was the language I was using at the university for most of the classes. I gain an understanding of JavaScript for a university project and also did some frontend development at work. I have no problem using git and working in an agile environment. 
+        </p>
+        <p>
         I had fun doing some game development in Unity and Unreal, probably not worth mentioning. I became proficient in SQL and I have experience with the SQL server.
         My programming skills are still lacking but I am still at the beginning and I am a quick learner.
+        </p>
       </div>
     </section>
 
@@ -189,4 +192,14 @@ Usability (Analysis, Research Methods, UCD), Software Engineering (Documentation
       </div>
     </section>
   </div>
+<div class="center">
+    
+<a href="#" class="next" onclick="goBack()">scroll up</a>
+<div style="text-align: center; font-size: 12px; margin-top:15px">
+    <p> <a href="https://icons8.com/icon/LGD5b4uegqeq/drawing">Drawing icon by Icons8</a>. Adapted from Andre Madarang's CV <a href="https://github.com/drehimself/resume-template">template</a>. Skillbars adapted from <a href="https://codepen.io/milacarrera/pen/pEPoZz">Codepen</a> by Camila Cerrera.
+    </p>
+</div>
+
+    
+    
 
