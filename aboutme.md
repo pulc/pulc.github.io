@@ -45,7 +45,9 @@ If you don't like reading texts, here you have an original emoji-based list. I g
 
 Due to the lack of interesting things to write about me, I feel the need to mention my favorite music and films.
 
-There will be a link with an article. So far, you can check my [Spotify](https://open.spotify.com/playlist/5zgUin1sYKnlb27Z3SDg72?si=UVCtRG7VTOGsLHRxeRBuPQ).
+There will be a link with an article. So far, you can check my [Spotify](https://open.spotify.com/playlist/5zgUin1sYKnlb27Z3SDg72?si=UVCtRG7VTOGsLHRxeRBuPQ). Spotify told me I was gender-fluid.
+
+![so gender-fluid](/assets/img/music.png)
 
 ## Cinema
 
