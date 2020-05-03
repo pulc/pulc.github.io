@@ -95,6 +95,9 @@ layout: resume
           </div> <!-- end job-title container -->
           <p>I studied the International Media and Computing programm and graduated with the thesis: Translator for an Online Chat System. The main courses I undertook were Informatics in Java (algorithms, funct. class design), Web Programming (HTML, CSS, JavaScript), Computer Systems, Networks, Cryptography, Digital Media (Image Processing in Java), Database Systems (SQL), Math,
 Usability (Analysis, Research Methods, UCD), Software Engineering (Documentation, Processes), Computer Graphics (Open GL), Game Engines, Advanced. Game Programming, Economics of Media, Media Theory, and Law in Media.
+<p>
+            As my Bachelor's Thesis, I developed an automatic translator for the <a href="https://mattermost.com/">Mattermost</a> app.  You can read it <a target="_blank" rel="noopener noreferrer" href="/assets/Thesis_Ulc.pdf">here</a>.
+            </p>
 
             </p>
         </div> <!-- end job -->

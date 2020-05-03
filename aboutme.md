@@ -29,7 +29,7 @@ Besides being weird, I also enjoy human fun activities like traveling, music, ta
  
 I avoid responsibilities a lot and tend to overthink stuff. No, not the happiest guy on the planet. My therapist told me I should choose a different career. But let's prove him he's wrong.
 
-If you don't like reading texts, here you have an original emoji-based list. I guess, this is how the youth communicates nowadays anyway.
+If you don't like reading texts, here you have an original emoji-based list. I am afraid this is the future of human interaction anyway.
 
 *   🎓 B.Sc. Computer Science  [HTW Berlin](https://imi-bachelor.htw-berlin.de/en/) (hopefully very soon)
 *   🦥 super sloppy
@@ -58,7 +58,7 @@ There will be also an article about my favorites movies and series. So far, you 
 ## Art
 ![a picture](/assets/img/devart1.jpg)
 
-I like drawing and painting. There will be a section with my work on the website. In the meantime, you can check my [Deviantart](https://www.deviantart.com/pavelulc/gallery). Currently I dedicated myself to urban sketching.
+I like drawing and painting. There will be a section with my work on the website. In the meantime, you can check my [Deviantart](https://www.deviantart.com/pavelulc/gallery). Currently, I dedicated myself to urban sketching.
 
 We all love taking pictures. I am also a wannabe photographer. Let me share my [public album](https://goo.gl/photos/ts7oYheLEbxC66Za9) from my solo travel to Iran. 
 
@@ -101,7 +101,7 @@ I can name all countries and recognize their flags. Also visited some (backpacki
 
 I am a terrible singer but still going to Karaoke every week. Usually, I need to get drunk before.
 
-I never managed to stop using 9gag. With about 30 minutes daily on average from the teenage weeks, my estimation is several weeks in net time. I don't know why I am mentioning it my site would give every 9gagger cancer.
+I never managed to stop using 9gag. With about 30 minutes daily on average from my early teenage years, my estimation of a wasted life is several weeks in net time. I don't know why I am mentioning it as my site would give every 9gagger cancer.
 
 I would like to find a group to play Dungeons & Dragons! 
 

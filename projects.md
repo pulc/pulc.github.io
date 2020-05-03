@@ -154,14 +154,14 @@ h4{
                 <div id="grid">
 
 <p>
-    So far, I did not take part on many projects. (But I would like to!)
+    So far, I did not take part in many projects. (But I would like to!)
 </p>
 <p>
-    Here is a small overview of my past project I participated in. Most of my work was university related stuff.
+    Here is a small overview of th- past projects I participated in. Most of my work is university related stuff.
 </p>
         <h2>Zeiterfassung Pierburg</h2>
         <p>
-            Zeiterfassung Pierburg was my first big project I worked independently on. I developed an application that was used in production in <a href="https://www.rheinmetall-automotive.com/marken/pierburg/"> Pierburg Berlin</a>. Pierburg is a subsidiary of Rheinmetall Automotive. In their factory in Berlin, they produce car parts such as electric throttles. 
+            Zeiterfassung Pierburg was the first big project I worked independently on. I developed an application that was used in production in <a href="https://www.rheinmetall-automotive.com/marken/pierburg/"> Pierburg Berlin</a>. Pierburg is a subsidiary of Rheinmetall Automotive. In their factory in Berlin, they produce car parts such as electric throttles. 
             The app was developed for the workers on assembly lines to mark their working times and write down the number of items they produced in their shift.
         </p>
         <p>
@@ -237,7 +237,7 @@ h4{
         </div>
         <!-- END GRID -->
     </div>
-</div>
+
 
 <h2>Game Development</h2>
         <p>
@@ -267,6 +267,37 @@ h4{
                 <img class="imgSmall" src="/assets/img/gameengines/vfx.gif" alt="Lights">
                 <h4>VFX in Unity</h4>
             </div>
+        </div>
+        </div>
+        <h2>Mattermost Translator</h2>
+        <p>
+            As my Bachelor's Thesis, I developed an automatic translator for the <a href="https://mattermost.com/">Mattermost</a> app. Mattermost is an open-souce alternative to Slack or Microsoft Teams. You can read it <a target="_blank" rel="noopener noreferrer" href="/assets/Thesis_Ulc.pdf">here</a>.
+        </p>
+        <p>
+            I am not super proud as it wasn't a substantional programming effort. I integrated the <a href="https://mymemory.translated.net/">MyMemory Translated API </a> as a webhook and processed it in a <b><i>Node.js</i></b> webservice.
+        </p>
+        <p>
+            I didn't know what to put in the screenshots, it doesn't look impressive. I added a state diagram, <b>prooving</b> how capable I am of creating them.
+        </p>
+    <div class="row">
+        <div class="column">
+            <div class="content">
+                    <img class="imgSmall" src="/assets/img/thesis/thesis1.png" alt="Mountains">
+                    <h4>Screenshot 1</h4>
+            </div>
+        </div>
+        <div class="column">
+            <div class="content">
+                <img class="imgSmall" src="/assets/img/thesis/thesis2.png" alt="Lights">
+                <h4>Screenshot 2</h4>
+            </div>
+        </div>
+        <div class="column">
+            <div class="content">
+                <img class="imgSmall" src="/assets/img/thesis/thesis3.png" alt="Lights">
+                <h4>State Diagram</h4>
+            </div>
+        </div>
         </div>
         </div>
         <hr>
