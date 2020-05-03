@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Information overhead
+subtitle: Information overload
 bigimg: /assets/img/me3.jpeg	
 ---
 
