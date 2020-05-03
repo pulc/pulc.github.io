@@ -9,6 +9,8 @@ bigimg: /assets/img/me3.jpeg
 Yo! I am [Pavel](https://en.wiktionary.org/wiki/Pavel).
  
 I guess I want to proceed with my career as a developer. Therefore, I am supposed to have a website. Let's see how it goes.
+
+Are you interested in my weight? [Learn more](https://pulc.github.io/2020-05-02-my-weight/).
  
 ## Who am I
  
