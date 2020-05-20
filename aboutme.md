@@ -5,7 +5,6 @@ subtitle: Information overload
 bigimg: /assets/img/me3.jpeg	
 ---
 
-
 Yo! I am [Pavel](https://en.wiktionary.org/wiki/Pavel).
  
 I guess I want to proceed with my career as a developer. Therefore, I am supposed to have a website. Let's see how it goes.
@@ -80,17 +79,17 @@ I also need to mention board games. Bang! is awesome. I also want to get better 
 
 ##  Food
 
-It's trendy nowadays to talk about food everywhere and share your creations. I don't care about food and eat pretty much everything.
+It's trendy nowadays to talk about food everywhere and share one's creations. I don't care about food and eat pretty much everything.
 
 ##  Miscellaneous
 
 I ate 31 dumplings once. I think it's the biggest accomplishment of my life so far.
 
-Since 2009, I am studying at an online [Hogwarts](https://www.hogwarts.cz) school. I am not a very proud Hufflepuff. Used to be a perfect. Due to my sloppiness, however, I have never finished my OWLs.
+Since 2009, I am studying at an online [Hogwarts](https://www.hogwarts.cz) school. I am not a very proud Hufflepuff. Used to be a prefect. Due to my sloppiness, however, I have never finished my OWLs.
 
 I am a big Survivor fan. I definitely spent too much time on Reddit.
 
-I am learning Russian. Hit me up if you want a language exchange.
+I am learning Russian. Hit me up if you want a language exchange!
 
 I run a marathon under 3:30. I can give you some tips.
 
@@ -111,6 +110,8 @@ Since I am sharing everything here for no reason, I could share my favorite porn
 
 ### Contact me
 
-Write me a [mail](mailto:ulc.pavel@gmail.com?subject=Hello from pulc.github.io). It would surprise me. I need some new friends, don't be like me.
+Write me a [mail](mailto:ulc.pavel@gmail.com?subject=Hello from pulc.github.io). It would surprise me. I need some new friends, don't be like me and don't be shy.
 
 ![Hint](/assets/img/goingout.jpg)
+
+*Last update: May 2, 2020*
