@@ -4,7 +4,7 @@ title: Should I study computer science when I don't like coding and technology?
 subtitle: Practical instructions and life tips
 tags: [studying, computer science]
 bigimg:
-  - "/assets/img/articles/dog_coding.jpg" : "Test"
+  - "/assets/img/articles/dog_coding.jpg" : "Harambe died for our sins."
 
 ---	
 **No. Please don't.**

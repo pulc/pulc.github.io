@@ -1,0 +1,34 @@
+<div class="gallery">
+          <a href="/assets/img/photos/altmark/min/deer.jpg" class="image">
+          <img src="/assets/img/photos/altmark/deer.jpg" alt="fhfdhfd">
+          </a>
+          <a href="/assets/img/photos/altmark/england1.jpg" class="image">
+          <img src="/assets/img/photos/altmark/england1.jpg" alt="sdgsd">
+          </a>
+          <a href="/assets/img/photos/altmark/england1.jpg" class="image">
+            <img src="/assets/img/photos/altmark/england1.jpg" alt="">
+          </a>
+          <a href="/assets/img/photos/altmark/england1.jpg" class="image">
+            <img src="/assets/img/photos/altmark/england1.jpg" alt="">
+          </a>
+                    <a href="/assets/img/photos/altmark/england1.jpg" class="image">
+            <img src="/assets/img/photos/altmark/england1.jpg" alt="">
+          </a>
+                    <a href="/assets/img/photos/altmark/england1.jpg" class="image">
+            <img src="/assets/img/photos/altmark/england1.jpg" alt="">
+          </a>
+                              <a href="/assets/img/photos/altmark/england1.jpg" class="image">
+            <img src="/assets/img/photos/altmark/england1.jpg" alt="">
+          </a>
+                    <a href="/assets/img/photos/altmark/england1.jpg" class="image">
+            <img src="/assets/img/photos/altmark/england1.jpg" alt="">
+          </a>
+                              <a href="/assets/img/photos/altmark/england1.jpg" class="image">
+            <img src="/assets/img/photos/altmark/england1.jpg" alt="">
+          </a>
+                    <a href="/assets/img/photos/altmark/england1.jpg" class="image">
+            <img src="/assets/img/photos/altmark/england1.jpg" alt="">
+          </a>
+        </div>
+      </div>
+    </div>
