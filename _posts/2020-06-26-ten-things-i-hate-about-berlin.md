@@ -10,6 +10,8 @@ bigimg:
 **Annual hate post about that filthy city**
  
  
+
+
 I used to live in Berlin for over 5 years. This article partially describes my experience. If you don't know me, you can read about my background [here](https://pulc.github.io/aboutme/) as it's probably relevant for my comparison. To put it shortly, I grew up in a relatively conservative family in a small city of Pilsen in Czechia.
  
 I actually don't hate the city. However, overall, it didn't suit my taste at all. In order to maintain some balance, I will also make a list of things I liked about the city. 
@@ -167,7 +169,6 @@ But it really is just about one's taste. I do believe a lot of people love Berli
  
  Pictures: I put quite random pictures in there I took when I came to Berlin. They are not really connected to the list. If you are interested in more memes, just google Berlin meme reddit, there is a lot of fun ones.
 
- 
  
 
 
