@@ -8,7 +8,7 @@ bigimg:
 ---  
 Some days ago I transferred money to an acquaintance of mine. As the advice for the beneficiary, I wrote *"Harambe died for our sins"*.
 
-TLDR: <a href="#summary">Summary</a>
+<a href="#summary">TLDR</a>
  
 Later, I got asked why I would care about the gorilla that much. I answered that I didn't care about the gorilla that much but it was fun to pretend I cared. He did not understand me. I got asked several more questions regarding the topic and I just could not explain them to my satisfaction. Hereby I present you an article that should answer the question: **"Why are Harambe memes funny?"** I will attempt to explain the general functionality of memes and my personal philosophical approach to life and memes.
  
