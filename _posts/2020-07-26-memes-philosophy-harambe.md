@@ -7,6 +7,8 @@ bigimg:
   - "/assets/img/articles/harambe/framed_memes.jpg" : "My cabinet"
 ---  
 Some days ago I transferred money to an acquaintance of mine. As the advice for the beneficiary, I wrote *"Harambe died for our sins"*.
+
+TLDR: <a href="#summary">Summary</a>
  
 Later, I got asked why I would care about the gorilla that much. I answered that I didn't care about the gorilla that much but it was fun to pretend I cared. He did not understand me. I got asked several more questions regarding the topic and I just could not explain them to my satisfaction. Hereby I present you an article that should answer the question: **"Why are Harambe memes funny?"** I will attempt to explain the general functionality of memes and my personal philosophical approach to life and memes.
  
@@ -16,7 +18,7 @@ Later, I got asked why I would care about the gorilla that much. I answered that
  
 So why is Harambe meme funny? First of all, I do not think Harambe is anyhow a special meme. It evolved just like every other meme: it was semi-randomly picked, went viral, and organically developed itself into what it is now. It could have been any other animal shot in the zoo if there was a video recording of the incident. 
  
-One could argue that assuming that Harambe is replaceable with an arbitrary animal, we would have to explain why memes are funny in general. I will attempt that but focusing only on abstract (dank) Harambe-like memes. I personally consider the meme as one of the memes that are not shallow as - in order to get it understood, it requires at least some prior background knowledge of the incident.
+One could argue that assuming that Harambe is replaceable with an arbitrary animal, we would have to explain why memes are funny in general. I will attempt that but focusing only on abstract (dank) Harambe-like memes. I personally consider the meme as one of the memes that are not entirely shallow as - in order to get it understood - it requires at least some prior background knowledge of the incident.
  
 **Memes serve the purpose of entertainment**, the most viral ones being humorous. However, they represent much more. The picture of Harambe is not funny at all without context (the knowledge of what it represents) as the shooting of the gorilla itself is in fact a very sad incident. 
  
@@ -33,7 +35,7 @@ As said before, memes are mostly supposed to be funny. It does not have to be al
  
 ![Meme Air](/assets/img/articles/harambe/memeair.jpeg "meme")
  
-However, expressions like "Harambe died for our sins." rarely make their way into mainstream memes. Without further ado, I extracted two main reasons why "Harambe died for our sins." is funny. 
+However, expressions like "Harambe died for our sins." rarely make their way into mainstream memes. Without further ado, I extracted two main reasons why "Harambe died for our sins." is funny and I will try to back it up with simplified philosphical concepts based on my experience using simple English vocabulary. 
  
 # Community Aspect
  
@@ -44,13 +46,13 @@ Just like other communities, let's say Urban Sketchers, Football Fans, or Belieb
  
 As a (non-proud) 9gagger, I will briefly explain the 9gag community aspect. *(side note: I grew up with 9gag just like many other millennials and nerds around my age. I am aware of the slot-machine like mechanism damaging my brain that is desperately looking for stimulants, consuming funny cat videos instead of Camus' Myth of Sisyphus)* The rules of 9gag are, for instance, posting a potato picture after a long post, no use of emojis nor Comic Sans. If you post a photo, put a banana for scale. Knowing the rules creates a bond among the members of the community, just like knowing the rules of football connects football fans.
  
-If I write "Harambe died for our sins" or post a Harambe-related picture, the 9gag community members (or anyone acquainted with the message) would understand it and possibly giggle a bit. It is in human nature to show that one understands what the author meant. Just like in the screenshot taken from my Instagram account, people comment "F" or sad emojis, demonstrating their belonging to the community. Humans are social beings and they [need to belong](http://psychology.iresearchnet.com/social-psychology/interpersonal-relationships/need-to-belong/#:~:text=The%20need%20to%20belong%20refers,minimum%20quantity%20of%20enduring%20relationships.) That is the key factor of memes (and jokes in general I guess).
+If I write "Harambe died for our sins" or post a Harambe-related picture, the 9gag community members (or anyone acquainted with the message) would understand it and possibly giggle a bit. It is in human nature to show that one understands what the author meant. Just like in the screenshot taken from my Instagram account, people [comment "F"](https://www.quora.com/What-does-it-mean-when-someone-comments-F#:~:text=%E2%80%9CWhat%20does%20it%20mean%20when,the%20discussion%20of%20that%20thread.) or sad emojis, demonstrating their belonging to the community. Humans are social beings and they [need to belong](http://psychology.iresearchnet.com/social-psychology/interpersonal-relationships/need-to-belong/#:~:text=The%20need%20to%20belong%20refers,minimum%20quantity%20of%20enduring%20relationships.) That is the key factor of memes (and jokes in general I guess).
  
 ![Harambe on Instagram](/assets/img/articles/harambe/Harambe_Instagram.JPG "My Instagram Post Staring Harambe")
  
-In the world of football fans, they can connect over shared knowledge about football (duh). I copied a joke from [inews.co.uk](inews.co.uk): "Three hours of football and the goalkeeper is still England’s top scorer." I would think it evokes the same amount of giggle among English football fans as *" Harambe died for our sins"* among meme fans.
+In the world of football fans, they can connect over shared knowledge about football (duh). I copied a joke from [inews.co.uk](inews.co.uk): "Three hours of football and the goalkeeper is still England’s top scorer." I would think it evokes the same amount of giggle among English football fans as *" Harambe died for our sins"* among meme fans and it's incomprehensible without context.
  
-A further aspect connected to it is the feeling of exclusivity. I would assume that a good knowledge of memes is perceived positive (not sure though). Therefore, posting something that the others (normies) don't know about makes the authors feel good. 
+A further aspect connected to it is the feeling of exclusivity. I would assume that a good knowledge of memes is perceived positive (not sure though, depends on the social environment). Therefore, posting something that the others (normies) don't know about makes the authors feel good. 
  
 In case you own your nerdiness, it is also a good starter for a conversation. It is not a difficult concept to grasp as sharing knowledge makes for a good community. Communities like 9gag are an internet equivalent of "real-life" communities.
  
@@ -89,14 +91,12 @@ At first, let's briefly summarize what are the answers for nihilism that philoso
 ![Nihilism Scheme](/assets/img/articles/harambe/nihilism_scheme.JPG "Nihilism Scheme")
  
 Nihilism offers no answer on how to solve the void of no objective meaning in life.
- 
- 
+  
 Existentialists like *Jean-Paul Sartre* admit that there is no objective meaning in life. Nevertheless, every person can and should find subjective meaning in life. 
- 
  
 *"Another reaction to nihilism is **absurdism**. Absurdists like Albert Camus accept the absurd contradiction between the person looking for meaning and a senseless world. Everyone can be free and happy if they only want to."* Camus also describes further reactions to nihilism which are: Suicide, Religion or spirituality, and Rationalism.
  
-I spent a lot of time thinking about all the offered reactions as a solution to the void and the scary state of nihilism and demotivation. I have a repulsion against religion and I just could not start to believe (although I made almost zero effort). I thought about suicide but it felt too radical and it would be irreversible. I was making thoughts about existentialism for a very long time, however, it always failed on the contradiction of looking for a sense in a senseless world. Firstly, finding a subjective sense is difficult, and secondly, the contradiction can lead to a vicious circle of searching without finding it. And I feel like and observe, there are a lot of people trapped in this circle still looking for answers.
+I spent a lot of time thinking about all the offered reactions as a solution to the void and the scary state of nihilism and demotivation. I have a repulsion against religion and I just could not start to believe (and frankly, I made almost zero effort). I thought about suicide but it felt too radical and it would be irreversible. I was making thoughts about existentialism for a very long time, however, it always failed on the contradiction of looking for a sense in a senseless world. Firstly, finding a subjective sense is difficult, and secondly, the contradiction can lead to a vicious circle of searching without finding it. And I feel like and observe, there are a lot of people trapped in this circle still looking for answers.
  
 I chose absurdism as the escape route from the void of nihilism. And I would recommend it for everyone as it is rather liberating and makes life so much easier. *(side note: I can totally understand if you wouldn't take any advice from me.)*
  
@@ -114,9 +114,7 @@ A great insight into absurdism offers a [video from *BBC Ideas* on YouTube](http
  
 **Life is pointless, existence is meaningless and look at this Harambe picture!**
  
-As life has no meaning at all, do whatever you want to do, think whatever you want to and have fun. Do whatever makes you feel good (possibly sustainably). If the picture of Harambe entertains you right now, let yourself get entertained. 
- 
-The influence of absurdism has been strong in the arts. And memes are the art of modern ways. The picture of Whistler's Mother is not fun. Mr. Bean's cover of Whistler's Mother is a lot of fun!
+As life has no meaning at all, do whatever you want to do, think whatever you want to and have fun. Do whatever makes you feel good (possibly sustainably). If the picture of Harambe entertains you right now, let yourself get entertained. The influence of absurdism has been strong in the arts. And memes are the art of modern ways. The picture of Whistler's Mother is not fun. Mr. Bean's cover of Whistler's Mother is a lot of fun!
  
 In my opinion and according to my perspective, **dank memes like Harambe are the absurdist answer to nihilism**. Together with the growth of nihilism, so are dank memes on growth. Among the younger audience like me, shows dealing with absurdism and existentialism like *Rick and Morty* or *Bojack Horseman* (my very favorite show) are very successful. If even life has no objective meaning, let's not search for a meaning behind everything, let's search for the interesting and bizarre!  
  
@@ -128,8 +126,8 @@ At this point, I would like to share the video of *Veggietales* predicting the f
  
 It absolutely reflects the abstract humor of memes like Harambe. The comment section under the video just confirms it as people (including me) find the *"weed eater"* punchline unironically funny.
  
-Up to some extent, I can consider the picture of Harambe as an equivalent of a Jesus picture by religious people. Each time they look at the picture, they see the meaning behind it, they have a connection to the person represented in the picture and it moves them emotionally. 
-If I look at the framed Harambe picture in my room, I can choose from a variety of emotions. I feel entertained each time looking at the picture due to the fact of how absurd it is. But at the same time, I can become mournful because of his death. In the meme culture, Harambe is often referred to as *"Our Lord and Savior"*. Even though it's not serious, it's completely the same principle, having the picture in my room and lighting candles during his death anniversary.
+Up to some extent, I can consider the picture of Harambe I framed in my room as an equivalent of a Jesus picture by religious people. Each time they look at the picture, they see the meaning behind it, they have a connection to the person represented in the picture and it moves them emotionally. 
+If I look at the framed Harambe picture in my room, I can choose from a variety of emotions. I feel entertained each time looking at the picture due to the fact of how absurd it is. But at the same time, I can become mournful because of his death. In the meme culture, Harambe is often referred to as *"Our Lord and Savior"*. Even though it's not serious, it's completely the same principle, having the picture in my room and lighting candles during his death anniversary. It creates an emotion that the perceiver was looking for.
  
 ### Determinism 
  
@@ -137,12 +135,12 @@ I have the last (and the weakest) argument for my explanation of why Harambe mem
  
 Just like with the introduction to nihilism, I will make a statement out of nowhere: One of the problems (not only) the youth is dealing with is *Determinism*. By [Wikipedia](https://en.wikipedia.org/w/index.php?title=Determinism&oldid=965202867)'s definition, *"Determinism is the philosophical view that all events are determined completely by previously existing causes."* The opposite of determinism is *randomness* and the rival conception is *free will*.
  
-During my "dark times", I justified inaction by *causal determinism*, similarly as explained in the previous point about nihilism. I adopted the deterministic view saying that humans are merely the product of their biology and environment and therefore, free will is inherently an illusion. This obviously led to **fatalism** and the consequent attitude of resignation. 
-Justifying depression with fatalism is basically the same as coping with nihilism with *"If life has no meaning, none of my actions have meaning, hence nothing at all matters"* - it's really self-destructive.
+During my "dark times", I justified inaction by *causal determinism*, as similarly explained in the previous point about nihilism. I adopted the deterministic view saying that humans are merely the product of their biology and environment and therefore, free will is inherently an illusion. This obviously led to **fatalism** and the consequent attitude of resignation. 
+Justifying depression with fatalism is basically the same as coping with nihilism with the overused quote *"If life has no meaning, none of my actions have meaning, hence nothing at all matters"* - it's really self-destructive.
  
 It doesn't matter what is your position regarding the Determinism/ Free Will debate. What matters is the relevance of the outcome for you. What I do believe is that one should either not participate in the debate or take the free will position because Determinism, again, can lead to fatalism causing depression and [self-deceit](https://en.wikipedia.org/w/index.php?title=Self-deception&oldid=968546212), especially when you are prone to it. 
  
-As the opposite of determinism is randomness, **memes** and especially the abstract (dank) memes **are the execution of randomness and _free will_**. Just like *Veggietales* predicted, it's the random humor taking over nowadays. And it's just my theory that *Weedeater* or some dank Harambe memes are funny not only because they are nonsensical but they also serve as the defense against fatalism.
+As the opposite of determinism is randomness, **memes** and especially the abstract (dank) memes **are the execution of randomness and _free will_**. Just like *Veggietales* predicted, it's the random ("*randonmly generated*") humor taking over nowadays. And it's just my theory that *Weedeater* or some dank Harambe memes are funny not only because they are nonsensical but they also serve as the defense against fatalism.
  
 #### Simulation Hypothesis
 I came across the Simulation Hypothesis while reading about Determinism.
@@ -152,9 +150,10 @@ Just like we don't know whether God exists or doesn't, **we don't know if our wo
 I don't believe there is God and I doubt that we are a part of a simulation. But neither is provable and it probably never will be. However, I am open to it and I find this topic thrilling. And most importantly, I have a lot of fun thinking about it.
  
 And because having fun and being happy is my goal, I enjoy pretending that life is in fact a simulation. Or it's possibly just my justification for doing silly stuff. 
+
 Do you remember *"M. Night Shaym-Aliens!"* episode of Rick and Morty, where Rick is caught in a simulation created by Zigerians and tries to mess up the CPU of Zigerians?
-I like to think of the possibility of a simulation for our world. Doing the unpredictable, unexpected, and random could mess up the simulation. 
-I know it doesn't make much sense as in the case of simulation, my consciousness would be probably simulated as well, and therefore, I wouldn't mess up anything. However, I can offer you a parallel: just like the infamous [Jordan Peterson](https://en.wikipedia.org/wiki/Jordan_Peterson) does not believe in God but acts like there is one, I do the same with the Simulation Hypothesis. With the difference, that I am doing it just for fun and it corresponds with my absurdist approach.
+I like to think of the possibility of a simulation for our world. Doing the unpredictable, unexpected, and random could mess up with the simulation. 
+I know it doesn't make much sense as in the case of simulation, my consciousness would be probably simulated as well, and therefore, I wouldn't mess up anything. However, I can offer you a parallel: just like the infamous [Jordan Peterson](https://en.wikipedia.org/wiki/Jordan_Peterson) does not believe in God but acts like there is one - and I do the same with the Simulation Hypothesis. With the difference, that I am doing it just for fun and it corresponds with my absurdist approach. For me, it's really nothing serious, just a fun aspect to ponder.
  
  ------------------------------
  
@@ -166,7 +165,8 @@ In the end, I feel like Harambe was just a leitmotif for my thoughts regarding m
 Maybe it's not a deep topic at all and in this article, I am just attempting to justify my inclination towards the absurd by philosophy using fancy terms. When I talked to my brother and asked him about Harambe, he replied that "it's funny that you still keep it going". I guess that sums it up pretty well.
  
 Again, I have to admit (as mentioned in the intro), I'm not very knowledgeable about psychology, I started as a typical philosophy wannabee with Jordan Peterson's videos, questioning whether to like the guy or not. (hint: not anymore). Feel free to correct me if I misinterpreted any information.
- 
+
+<a id="summary"> 
 ## Summary
   
 Without context, Harambe memes are not funny. 
@@ -175,7 +175,7 @@ Harambe (or any other memes) make one feel as a part of a community and with eno
  
 If Harambe memes are rooted in philosophy, it is IMO absurdism.
  
-However, each point I mentioned in the article leads to "it's funny because it's funny". I also think I wrote more about my views and opinions with some foundation in my amateur interpretation of philosophy. I guess it's difficult to explain one's humor.
+However, each point I mentioned in the article leads to "it's funny because it's entertaining". I also think I wrote more about my views and opinions with some foundation in my amateur interpretation of philosophy. I guess it's difficult to explain one's humor.
  
 ## My advice and what you can take from this article
  
@@ -187,9 +187,9 @@ Harambe meme is fun just for me and people who know the context (duh). It's just
  
 **Do not dive into the debate about the meaning of life, do not dive into the determinism/ free will debate and do not overanalyze yourself.** It's time-consuming and it might harm you. Of course, not necessarily, I know people claiming Nietsche turned their life around towards happiness. If you are feeling fine, you don't need any of it and continue what you are doing. In general, reading books is better than Internet forums (duh).
  
-Anyways, this article cost me a lot of time and it definitely was not worth it. I should have done something else instead. I was forced to reconsider some of my values as after writing them down, I found a lot of contradictions.
+Anyways, this article cost me a lot of time and it definitely was not worth it. I should have done something else instead. I was forced to reconsider some of my values as after writing them down, I found a lot of contradictions.  And you should have done something else instead of reading it. If you read this far, I am sorry?
+
  
- And you should have done something else instead of reading it. If you read this far, I am sorry?
  
  
 
