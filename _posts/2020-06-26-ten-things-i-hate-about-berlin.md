@@ -109,7 +109,7 @@ Again, I think it's the right thing to do but for me as a very carefree person, 
 Yep, I wrote it. 
 Disclaimer: I am not a club person.
  
-Even though Berlin is sometimes considered to be Europe's capital for the club scene, I seriously did not enjoy the club scene. The main reason is that the music. Everywhere plays the same electronic music with an excessive beat. And techno, a lot of techno. (and I don't enjoy techno at all)
+Even though Berlin is sometimes considered to be Europe's capital for the club scene, I seriously didn't enjoy the club scene. The main reason is the music. Everywhere plays the same electronic music with an excessive beat. And techno, a lot of techno. (and I don't enjoy techno at all)
 People are not expected to dance but to have an epileptic seizure for hours.
  
 And the music is super loud. You can not really talk you are there to dance. The clubs definitely have a unique vibe - however, I hate that vibe. Furthermore, parties usually start at 11 or 12, which is usually my bedtime. If I go to a club that late, I immediately start yawning and want to go home. (I guess now I am complaining about clubs in general, not Berlin's nightlife)
