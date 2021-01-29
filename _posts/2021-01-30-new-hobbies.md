@@ -1,8 +1,8 @@
 --- 
 layout: post  
-title: "Memes and Philosophy: Case Harambe"
-subtitle: My reflection on why Harambe meme is funny and a personal journey to the world of philosophy
-tags: [memes, nihilism, Harambe, philosophy]
+title: "New Hobbies of 2020"
+subtitle: Hobbies I picked up during the year
+tags: [hobbies, about]
 bigimg:
   - "/assets/img/articles/harambe/framed_memes.jpg" : "My cabinet"
 ---  
@@ -23,7 +23,7 @@ And if you feel the introduction is too long and unnecessary, you are completely
 
 Bridge
 
-My friend Kryštof (check out his blog about trams - in Czech) brought me to the card game called bridge. I used to play it a bit during breaks back in high school, however, I didn’t know anything about tactics and how complex this game was. I started to study it a bit (but I am lazy when it comes to making a mental effort). I get apprehensive during tournaments, but (maybe also because of this and my passive gameplay) we were able to finish 3rd in one of the amateur tournaments. I assume this is objectively the biggest achievement of 2020. (it could maybe compete with finishing my bachelors thesis)
+My friend Kryštof (check out his [blog](http://ridicprazsky.cz/) about trams - in Czech) brought me to the card game called bridge. I used to play it a bit during breaks back in high school, however, I didn’t know anything about tactics and how complex this game was. I started to study it a bit (but I am lazy when it comes to making a mental effort). I get apprehensive during tournaments, but (maybe also because of this and my passive gameplay) we were able to finish 3rd in one of the amateur tournaments. I assume this is objectively the biggest achievement of 2020. (it could maybe compete with finishing my bachelors thesis)
 
 Pub Quizzes 
 
