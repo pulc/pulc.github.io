@@ -7,38 +7,32 @@ bigimg: /assets/img/me3.jpeg
 
 Yo! I am [Pavel](https://en.wiktionary.org/wiki/Pavel).
  
-I created this website as a resumé when I was applying for a job as a SW developer. I don't need this website anymore and it serves just as my testimony full of random confessions.
+I created this website as a resumé when I was applying for a job as an SW developer. I don't need this website anymore and it serves just like my testimony full of random confessions.
 
 Are you interested in my weight? [Learn more](https://pulc.github.io/2020-05-02-my-weight/).
  
 ## Who am I
  
-Just another human dwelling in Prague, socially awkward and struggling with becoming an adult.
-Made in Pilsen in Czechia, spent the last 5 years in Berlin and moved back to Czechia recently. Currently enjoying the life here, with mixed feeling regarding the time in Germany.
- 
-You might be surprised by my lack of class, interests, motivation, or self-esteem. Even though I am annoyed most of the time, I’m nice and sometimes even fun. There are indeed some people who enjoy my company. Still fixed to my high schools friends, which make my life much better.
- 
+Just another human dwelling in Prague, socially awkward and struggling with becoming an adult. Made in Pilsen in Czechia, spent the last 5 years in Berlin, and moved back to Czechia recently. Currently enjoying life here, with mixed feelings regarding the time in Germany.
+You might be surprised by my lack of class, interests, motivation, or self-esteem. Even though I am annoyed most of the time, I’m nice and sometimes even fun. There are indeed some people who enjoy my company. Still fixed to my high school friends, which make my life much better.
 Emotionally not very well developed, but alcohol and dark humor make me not care about it much. I like dogs, please send me as many cure pictures as possible.
- 
 Probably INTJ, if you are into MBTI. (but please don’t be, it’s irrelevant)
+Currently working as an information security architect. There used to be an article about my job prospect and motivation here but it's risky to leave it here. My job is the best. 😶 I can be highly motivated if I am paid and appreciated accordingly, although my biggest motivation is the fear of failure. Life is meaningless so whatever gives me some somehow sustainable amount of dopamine will be okay.
+Besides being weird, I also enjoy human fun activities like traveling, music, taking pictures, playing PC games, friends, YouTube, Netflix, pubs, sport, etc. Usually not getting crazy about it. Currently also into urban sketching, street workout, bridge, chess, and winter swimming.
+ (more info [here](https://pulc.github.io/2021-01-30-new-hobbies/))
  
-Currently working as an information security architect. There used to be an article about my job prospect and motivation here but it's risky to leave it here. My job is the best. 😶
-I can be high motivated if I am paid an appreciated accordingly, although my biggest motivation is the fear of a failure. Life is meaningless so whatever gives me some somehow sustainable amount of dopamine will be okay.
- 
-Besides being weird, I also enjoy human fun activities like traveling, music, taking pictures, playing PC games, friends, Youtube, Netflix, pubs, sport, etc. Usually not getting crazy about it. Currently also into urban sketching, street workout, cbridge, chess and winter swimming. (more info [here](https://pulc.github.io/2021-01-30-new-hobbies/)
- 
-I avoid responsibilities a lot and tend to overthink stuff. Used to be depressed for a long time, currently I am doing fine, being generally much more interested.
+I avoid responsibilities a lot and tend to overthink stuff. Used to be depressed for a long time, currently, I am doing fine, being generally much more interested.
 
-Here you can find my result of [Clifton strength assessment](https://www.gallup.com/cliftonstrengths/en/252137/home.aspx) which my company paid for. As you cans see, I have not the best social skills but I am fine when it comes to strategic thinking.
+Here you can find my result of [Clifton strength assessment](https://www.gallup.com/cliftonstrengths/en/252137/home.aspx) which my company paid for. As you cas see, I have not the best social skills but I am fine when it comes to strategic thinking.
 ![Clifton Strengths Analysis Result](/assets/img/clifton.png)
 
 
 If you don't like reading texts, here you have an original emoji-based list. I am afraid this is the future of human interaction anyway.
 
-*   🎓 B.Sc. Computer Science  [HTW Berlin](https://imi-bachelor.htw-berlin.de/en/) (hopefully very soon)
+*   🎓 B.Sc. Computer Science  [HTW Berlin](https://imi-bachelor.htw-berlin.de/en/) 
 *   🦥 super sloppy
-*   🇨🇿 from Pilsen, Czechia
-*   🇩🇪 based in Berlin, Germany
+*   🇨🇿 based in Prague, Czechia
+*   🇩🇪 German culture
 *   🍺 beer loving
 *   🌈 partnered
 *   💻 spends too much time on a computer
@@ -119,4 +113,7 @@ Write me a [mail](mailto:ulc.pavel@gmail.com?subject=Hello from pulc.github.io).
 
 ![Hint](/assets/img/goingout.jpg)
 
-*Last update: May 2, 2020*
+*Last update: January 31, 2021*
+
+*Archive*
+[05.05.2020](https://pulc.github.io/aboutme2/)
