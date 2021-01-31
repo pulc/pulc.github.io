@@ -4,11 +4,9 @@ title: "New Hobbies of 2020"
 subtitle: Hobbies I Picked up During the Year
 tags: [hobbies, about]
 bigimg:
-  - "/assets/img/articles/hobbies/hob8.jpg" : "Look at these plants!"
+  - "/assets/img/articles/hobbies/plantsbig.jpeg" : "Look at these plants!"
 ---  
 Hello my readers! 
-
-(estimate reading time 8 minutes)
 
 Many of you have noticed that I haven’t posted anything for a long time. I have started to write about 6 articles but haven’t finished any of them. I would like to get back to the journal-like style of writing as it’s easier for me to finish it this way. These journal-like egocentric articles probably won’t be interesting for you but I will appreciate them when I will find this long-forgotten website in a few years. 
 
