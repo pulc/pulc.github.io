@@ -4,7 +4,7 @@ title: About me
 subtitle: Information overload
 bigimg: /assets/img/me3.jpeg	
 ---
-This was written on May 2 in 2020. For the current version, click [here](pulc.github.io/aboutme)
+This was written on May 2 in 2020. For the current version, click [here](pulc.github.io/aboutme).
 
 
 Yo! I am [Pavel](https://en.wiktionary.org/wiki/Pavel).
