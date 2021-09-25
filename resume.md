@@ -26,7 +26,6 @@ layout: resume
           </div>
         </div> <!-- end links -->
 
-        <p>A third year computer science undergraduate student at HTW Berlin with an interest in software development.</p>
       </div>
     </section>
 
