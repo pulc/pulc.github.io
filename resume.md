@@ -6,7 +6,7 @@ layout: resume
   <div class="container">
     <section>
       <div>
-        <div><img src="/assets/img/pulc.png" alt="avatar" class="avatar"></div>
+        <div><img src="/assets/img/ulc_transparent.png" alt="avatar" class="avatar"></div>
       </div>
       <div>
         <div class="my-name">Pavel Ulc</div>
