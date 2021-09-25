@@ -20,7 +20,7 @@ You might be surprised by my lack of class, interests, motivation, or self-estee
 Emotionally not very well developed, but alcohol and dark humor make me not care about it much. I like dogs, please send me as many cure pictures as possible.
 Probably INTJ, if you are into MBTI. (but please don’t be, it’s irrelevant)
 
-Currently working as an information security architect. There used to be an article about my job prospect and motivation here but it's risky to leave it here. My job is the best. 😶 I can be highly motivated if I am paid and appreciated accordingly, although my biggest motivation is the fear of failure. Life is meaningless so whatever gives me some somehow sustainable amount of dopamine will be okay.
+Currently working as an information security architect. I can be highly motivated if I am paid and appreciated accordingly, although my biggest motivation is the fear of failure. Life is meaningless so whatever gives me some somehow sustainable amount of dopamine will be okay.
 
 Besides being weird, I also enjoy human fun activities like traveling, music, taking pictures, playing PC games, friends, YouTube, Netflix, pubs, sport, etc. Usually not getting crazy about it. Currently also into urban sketching, street workout, bridge, chess, and winter swimming.
  (more info [here](https://pulc.github.io/2021-01-30-new-hobbies/))
