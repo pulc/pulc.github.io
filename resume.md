@@ -33,7 +33,22 @@ layout: resume
     <section>
       <div class="section-title">Experience</div>
       <div>
-          
+                  <div class="job">
+          <div class="job-title-container">
+            <div>
+              <div class="job-company">Mercedes Benz Parts Logistics Eastern Europe</div>
+              <div class="job-title">Information Architect for Automation</div>
+            </div>
+            <div>
+              Aug 2020 - present
+            </div>
+          </div> <!-- end job-title container -->
+          <p> I was checking system architecture and system design for existing information threats and consulted  security during planning phase of new systems and modifictions of existing priduction systems.</p>
+        </div> <!-- end job -->
+
+
+
+
         <div class="job">
           <div class="job-title-container">
             <div>
