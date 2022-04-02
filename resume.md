@@ -26,7 +26,6 @@ layout: resume
           </div>
         </div> <!-- end links -->
 
-        <p>SINAMICS drives for the win!</p>
       </div>
     </section>
 
