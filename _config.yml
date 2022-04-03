@@ -4,7 +4,7 @@
 title: Pavel's Den
 
 # Short description of your site
-description: Even a bad developer needs a website
+description: I am oversharing stuff with strangers.
 
 # Your name to show in the footer
 author: Pavel Ulč
@@ -24,7 +24,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/assets/img/avatar.png"
+avatar: "assets/img/ulc_transparent.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour here.
 round-avatar: true
@@ -45,7 +45,7 @@ social-network-links:
 #  twitter: PavelUlc
 #  rss: true
   reddit: kurvaknedlik
-#  linkedin: pavel-ulc
+  linkedin: pavel-ulc
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -91,9 +91,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
+#navbar-img: "assets/img/articles/chess/ELO.PNG"
 #footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+#page-img: "assets/img/articles/chess/ELO.PNG"
 
 # --- Web Statistics Section --- #
 
@@ -181,7 +181,7 @@ defaults:
       layout: "post"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-      readtime: false # add estimated reading time on all blog posts
+      readtime: true # add estimated reading time on all blog posts
   -
     scope:
       path: "" # all files
