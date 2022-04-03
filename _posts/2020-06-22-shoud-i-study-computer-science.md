@@ -1,6 +1,6 @@
 ---	
 layout: post	
-title: Should I study computer science when I don't like coding and technology?
+title: Should I Study Computer Science When I Don't Like Coding and Technology?
 subtitle: Practical instructions and life tips
 tags: [studying, computer science]
 bigimg:

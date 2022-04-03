@@ -1,11 +1,10 @@
 --- 
 layout: post  
-title: 10 things I hate about Berlin
+title: 10 Things I Hate About Berlin
 subtitle: Berlin is (maybe) not that cool 
 tags: [Berlin, hate post]
 bigimg:
   - "/assets/img/articles/berlin/berlin1.jpg" : "Brandenburger Tor"
- 
 --- 
 **Annual hate post about that filthy city**
  
